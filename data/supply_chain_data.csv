@@ -1,0 +1,280 @@
+order_id,order_date,supplier_id,supplier_name,product_id,product_name,category,quantity,unit_cost,total_cost,expected_delivery,actual_delivery,status,delivery_days,on_time_delivery,delay_days
+PO0001,2026-05-24,SUP002,Bright Logistics,PR001,Electronic Sensor,Electronics,62,120.0,7440.0,2026-06-05,2026-06-12,Delivered,19,0,7
+PO0002,2026-09-25,SUP002,Bright Logistics,PR007,Plastic Resin,Raw Materials,268,60.0,16080.0,2026-09-30,2026-09-29,Delivered,4,1,-1
+PO0003,2025-11-13,SUP001,Alpha Components,PR004,Machine Bearing,Industrial,152,45.0,6840.0,2025-12-01,2025-12-06,Delivered,23,0,5
+PO0004,2025-10-19,SUP001,Alpha Components,PR003,Shipping Box,Packaging,120,12.0,1440.0,2025-11-06,2025-11-04,Delivered,16,1,-2
+PO0005,2026-08-25,SUP006,FastTrack Parts,PR002,Steel Sheet,Raw Materials,319,80.0,25520.0,2026-09-11,2026-09-12,Delivered,18,0,1
+PO0009,2026-03-31,SUP004,Delta Packaging,PR002,Steel Sheet,Raw Materials,93,80.0,7440.0,2026-04-13,2026-04-14,Delivered,14,0,1
+PO0011,2026-01-11,SUP002,Bright Logistics,PR003,Shipping Box,Packaging,148,12.0,1776.0,2026-01-23,2026-01-25,Delivered,14,0,2
+PO0013,2026-05-27,SUP006,FastTrack Parts,PR007,Plastic Resin,Raw Materials,458,60.0,27480.0,2026-06-03,2026-06-08,Delivered,12,0,5
+PO0014,2025-11-10,SUP006,FastTrack Parts,PR004,Machine Bearing,Industrial,244,45.0,10980.0,2025-11-30,2025-12-06,Delivered,26,0,6
+PO0016,2025-12-17,SUP005,Evergreen Supplies,PR007,Plastic Resin,Raw Materials,270,60.0,16200.0,2026-01-03,2026-01-01,Delivered,15,1,-2
+PO0017,2026-09-17,SUP008,Horizon Traders,PR002,Steel Sheet,Raw Materials,415,80.0,33200.0,2026-09-25,2026-09-23,Delivered,6,1,-2
+PO0020,2026-08-15,SUP005,Evergreen Supplies,PR006,Vehicle Component,Automotive,11,175.0,1925.0,2026-08-29,2026-09-01,Delivered,17,0,3
+PO0022,2026-04-03,SUP004,Delta Packaging,PR003,Shipping Box,Packaging,482,12.0,5784.0,2026-04-13,2026-04-21,Delivered,18,0,8
+PO0023,2026-02-03,SUP001,Alpha Components,PR006,Vehicle Component,Automotive,459,175.0,80325.0,2026-02-08,2026-02-09,Delivered,6,0,1
+PO0028,2026-01-20,SUP006,FastTrack Parts,PR008,Protective Wrap,Packaging,42,8.0,336.0,2026-02-08,2026-02-07,Delivered,18,1,-1
+PO0031,2026-01-21,SUP006,FastTrack Parts,PR002,Steel Sheet,Raw Materials,119,80.0,9520.0,2026-02-02,2026-02-05,Delivered,15,0,3
+PO0033,2025-11-08,SUP002,Bright Logistics,PR002,Steel Sheet,Raw Materials,249,80.0,19920.0,2025-11-26,2025-11-28,Delivered,20,0,2
+PO0035,2026-07-05,SUP002,Bright Logistics,PR004,Machine Bearing,Industrial,226,45.0,10170.0,2026-07-16,2026-07-14,Delivered,9,1,-2
+PO0038,2026-03-17,SUP004,Delta Packaging,PR003,Shipping Box,Packaging,472,12.0,5664.0,2026-04-06,2026-04-08,Delivered,22,0,2
+PO0040,2026-03-09,SUP008,Horizon Traders,PR005,Circuit Board,Electronics,121,250.0,30250.0,2026-03-29,2026-03-29,Delivered,20,1,0
+PO0041,2026-05-04,SUP001,Alpha Components,PR001,Electronic Sensor,Electronics,267,120.0,32040.0,2026-05-10,2026-05-13,Delivered,9,0,3
+PO0044,2025-11-28,SUP004,Delta Packaging,PR001,Electronic Sensor,Electronics,299,120.0,35880.0,2025-12-05,2025-12-10,Delivered,12,0,5
+PO0045,2026-06-29,SUP006,FastTrack Parts,PR005,Circuit Board,Electronics,77,250.0,19250.0,2026-07-14,2026-07-16,Delivered,17,0,2
+PO0046,2026-05-03,SUP005,Evergreen Supplies,PR008,Protective Wrap,Packaging,298,8.0,2384.0,2026-05-10,2026-05-15,Delivered,12,0,5
+PO0047,2026-01-09,SUP002,Bright Logistics,PR002,Steel Sheet,Raw Materials,487,80.0,38960.0,2026-01-20,2026-01-18,Delivered,9,1,-2
+PO0048,2026-06-08,SUP006,FastTrack Parts,PR002,Steel Sheet,Raw Materials,436,80.0,34880.0,2026-06-24,2026-06-27,Delivered,19,0,3
+PO0052,2026-06-05,SUP005,Evergreen Supplies,PR008,Protective Wrap,Packaging,434,8.0,3472.0,2026-06-11,2026-06-13,Delivered,8,0,2
+PO0056,2026-08-07,SUP003,Core Materials,PR007,Plastic Resin,Raw Materials,450,60.0,27000.0,2026-08-13,2026-08-21,Delivered,14,0,8
+PO0061,2026-02-13,SUP007,Global Source,PR001,Electronic Sensor,Electronics,189,120.0,22680.0,2026-02-25,2026-02-28,Delivered,15,0,3
+PO0063,2026-09-06,SUP006,FastTrack Parts,PR005,Circuit Board,Electronics,214,250.0,53500.0,2026-09-19,2026-09-23,Delivered,17,0,4
+PO0064,2026-08-13,SUP006,FastTrack Parts,PR001,Electronic Sensor,Electronics,29,120.0,3480.0,2026-08-26,2026-08-26,Delivered,13,1,0
+PO0065,2026-04-18,SUP002,Bright Logistics,PR007,Plastic Resin,Raw Materials,69,60.0,4140.0,2026-05-03,2026-05-07,Delivered,19,0,4
+PO0071,2026-03-18,SUP003,Core Materials,PR005,Circuit Board,Electronics,230,250.0,57500.0,2026-03-23,2026-03-22,Delivered,4,1,-1
+PO0073,2025-11-08,SUP008,Horizon Traders,PR003,Shipping Box,Packaging,334,12.0,4008.0,2025-11-15,2025-11-21,Delivered,13,0,6
+PO0074,2026-06-13,SUP006,FastTrack Parts,PR002,Steel Sheet,Raw Materials,85,80.0,6800.0,2026-06-27,2026-06-26,Delivered,13,1,-1
+PO0083,2026-05-24,SUP008,Horizon Traders,PR004,Machine Bearing,Industrial,130,45.0,5850.0,2026-06-12,2026-06-12,Delivered,19,1,0
+PO0084,2026-05-01,SUP005,Evergreen Supplies,PR006,Vehicle Component,Automotive,206,175.0,36050.0,2026-05-08,2026-05-07,Delivered,6,1,-1
+PO0085,2026-09-09,SUP003,Core Materials,PR004,Machine Bearing,Industrial,248,45.0,11160.0,2026-09-27,2026-10-01,Delivered,22,0,4
+PO0086,2026-06-28,SUP007,Global Source,PR001,Electronic Sensor,Electronics,309,120.0,37080.0,2026-07-16,2026-07-24,Delivered,26,0,8
+PO0088,2026-01-09,SUP007,Global Source,PR007,Plastic Resin,Raw Materials,233,60.0,13980.0,2026-01-21,2026-01-21,Delivered,12,1,0
+PO0091,2025-12-12,SUP001,Alpha Components,PR007,Plastic Resin,Raw Materials,79,60.0,4740.0,2025-12-17,2025-12-19,Delivered,7,0,2
+PO0092,2026-09-16,SUP008,Horizon Traders,PR003,Shipping Box,Packaging,242,12.0,2904.0,2026-09-29,2026-09-28,Delivered,12,1,-1
+PO0094,2026-08-31,SUP007,Global Source,PR005,Circuit Board,Electronics,36,250.0,9000.0,2026-09-20,2026-09-24,Delivered,24,0,4
+PO0100,2026-03-22,SUP005,Evergreen Supplies,PR007,Plastic Resin,Raw Materials,435,60.0,26100.0,2026-04-02,2026-04-09,Delivered,18,0,7
+PO0103,2026-03-10,SUP006,FastTrack Parts,PR001,Electronic Sensor,Electronics,335,120.0,40200.0,2026-03-30,2026-03-31,Delivered,21,0,1
+PO0106,2026-06-08,SUP005,Evergreen Supplies,PR006,Vehicle Component,Automotive,134,175.0,23450.0,2026-06-15,2026-06-18,Delivered,10,0,3
+PO0107,2026-04-22,SUP008,Horizon Traders,PR007,Plastic Resin,Raw Materials,103,60.0,6180.0,2026-04-27,2026-04-28,Delivered,6,0,1
+PO0108,2026-04-13,SUP008,Horizon Traders,PR004,Machine Bearing,Industrial,369,45.0,16605.0,2026-04-26,2026-05-01,Delivered,18,0,5
+PO0109,2026-01-20,SUP005,Evergreen Supplies,PR001,Electronic Sensor,Electronics,218,120.0,26160.0,2026-01-31,2026-02-07,Delivered,18,0,7
+PO0111,2026-08-25,SUP008,Horizon Traders,PR001,Electronic Sensor,Electronics,134,120.0,16080.0,2026-09-08,2026-09-15,Delivered,21,0,7
+PO0112,2026-02-11,SUP005,Evergreen Supplies,PR006,Vehicle Component,Automotive,291,175.0,50925.0,2026-02-27,2026-03-06,Delivered,23,0,7
+PO0113,2025-10-17,SUP006,FastTrack Parts,PR006,Vehicle Component,Automotive,128,175.0,22400.0,2025-11-05,2025-11-05,Delivered,19,1,0
+PO0115,2026-06-23,SUP003,Core Materials,PR004,Machine Bearing,Industrial,399,45.0,17955.0,2026-07-13,2026-07-18,Delivered,25,0,5
+PO0116,2026-07-04,SUP005,Evergreen Supplies,PR002,Steel Sheet,Raw Materials,164,80.0,13120.0,2026-07-18,2026-07-16,Delivered,12,1,-2
+PO0118,2025-11-19,SUP005,Evergreen Supplies,PR003,Shipping Box,Packaging,303,12.0,3636.0,2025-12-09,2025-12-05,Delivered,16,1,-4
+PO0119,2026-02-08,SUP005,Evergreen Supplies,PR008,Protective Wrap,Packaging,139,8.0,1112.0,2026-02-27,2026-02-23,Delivered,15,1,-4
+PO0120,2026-09-08,SUP008,Horizon Traders,PR002,Steel Sheet,Raw Materials,332,80.0,26560.0,2026-09-25,2026-09-30,Delivered,22,0,5
+PO0121,2026-07-27,SUP001,Alpha Components,PR003,Shipping Box,Packaging,70,12.0,840.0,2026-08-10,2026-08-09,Delivered,13,1,-1
+PO0122,2026-01-17,SUP007,Global Source,PR004,Machine Bearing,Industrial,162,45.0,7290.0,2026-02-03,2026-02-06,Delivered,20,0,3
+PO0124,2025-11-25,SUP002,Bright Logistics,PR004,Machine Bearing,Industrial,90,45.0,4050.0,2025-12-06,2025-12-03,Delivered,8,1,-3
+PO0125,2026-01-02,SUP004,Delta Packaging,PR003,Shipping Box,Packaging,240,12.0,2880.0,2026-01-09,2026-01-11,Delivered,9,0,2
+PO0126,2026-09-25,SUP008,Horizon Traders,PR005,Circuit Board,Electronics,369,250.0,92250.0,2026-10-07,2026-10-07,Delivered,12,1,0
+PO0129,2026-09-05,SUP005,Evergreen Supplies,PR003,Shipping Box,Packaging,314,12.0,3768.0,2026-09-11,2026-09-11,Delivered,6,1,0
+PO0131,2026-01-28,SUP007,Global Source,PR005,Circuit Board,Electronics,30,250.0,7500.0,2026-02-17,2026-02-22,Delivered,25,0,5
+PO0132,2025-12-06,SUP007,Global Source,PR006,Vehicle Component,Automotive,355,175.0,62125.0,2025-12-19,2025-12-18,Delivered,12,1,-1
+PO0135,2026-02-13,SUP008,Horizon Traders,PR002,Steel Sheet,Raw Materials,353,80.0,28240.0,2026-03-01,2026-03-02,Delivered,17,0,1
+PO0137,2026-02-21,SUP007,Global Source,PR001,Electronic Sensor,Electronics,69,120.0,8280.0,2026-02-28,2026-03-01,Delivered,8,0,1
+PO0138,2025-11-09,SUP007,Global Source,PR001,Electronic Sensor,Electronics,275,120.0,33000.0,2025-11-28,2025-11-27,Delivered,18,1,-1
+PO0143,2026-08-12,SUP002,Bright Logistics,PR008,Protective Wrap,Packaging,159,8.0,1272.0,2026-08-21,2026-08-28,Delivered,16,0,7
+PO0144,2026-02-06,SUP005,Evergreen Supplies,PR007,Plastic Resin,Raw Materials,84,60.0,5040.0,2026-02-26,2026-03-02,Delivered,24,0,4
+PO0147,2026-07-27,SUP005,Evergreen Supplies,PR008,Protective Wrap,Packaging,180,8.0,1440.0,2026-08-15,2026-08-16,Delivered,20,0,1
+PO0149,2026-03-15,SUP007,Global Source,PR004,Machine Bearing,Industrial,371,45.0,16695.0,2026-03-21,2026-03-24,Delivered,9,0,3
+PO0150,2025-11-06,SUP007,Global Source,PR007,Plastic Resin,Raw Materials,74,60.0,4440.0,2025-11-15,2025-11-11,Delivered,5,1,-4
+PO0151,2026-02-28,SUP006,FastTrack Parts,PR002,Steel Sheet,Raw Materials,17,80.0,1360.0,2026-03-08,2026-03-11,Delivered,11,0,3
+PO0152,2025-11-10,SUP003,Core Materials,PR007,Plastic Resin,Raw Materials,145,60.0,8700.0,2025-11-19,2025-11-27,Delivered,17,0,8
+PO0156,2026-08-22,SUP002,Bright Logistics,PR007,Plastic Resin,Raw Materials,163,60.0,9780.0,2026-08-30,2026-09-06,Delivered,15,0,7
+PO0157,2026-04-28,SUP001,Alpha Components,PR001,Electronic Sensor,Electronics,230,120.0,27600.0,2026-05-04,2026-05-05,Delivered,7,0,1
+PO0160,2025-12-17,SUP004,Delta Packaging,PR008,Protective Wrap,Packaging,140,8.0,1120.0,2025-12-26,2026-01-01,Delivered,15,0,6
+PO0163,2025-10-23,SUP005,Evergreen Supplies,PR007,Plastic Resin,Raw Materials,111,60.0,6660.0,2025-11-05,2025-11-05,Delivered,13,1,0
+PO0164,2026-08-18,SUP007,Global Source,PR008,Protective Wrap,Packaging,304,8.0,2432.0,2026-08-30,2026-08-31,Delivered,13,0,1
+PO0165,2026-09-30,SUP005,Evergreen Supplies,PR005,Circuit Board,Electronics,452,250.0,113000.0,2026-10-17,2026-10-22,Delivered,22,0,5
+PO0168,2025-11-24,SUP003,Core Materials,PR002,Steel Sheet,Raw Materials,27,80.0,2160.0,2025-11-30,2025-12-03,Delivered,9,0,3
+PO0169,2026-08-26,SUP006,FastTrack Parts,PR003,Shipping Box,Packaging,99,12.0,1188.0,2026-09-09,2026-09-11,Delivered,16,0,2
+PO0170,2026-01-08,SUP004,Delta Packaging,PR003,Shipping Box,Packaging,435,12.0,5220.0,2026-01-24,2026-01-24,Delivered,16,1,0
+PO0173,2026-08-26,SUP007,Global Source,PR006,Vehicle Component,Automotive,73,175.0,12775.0,2026-09-12,2026-09-16,Delivered,21,0,4
+PO0175,2025-10-31,SUP006,FastTrack Parts,PR002,Steel Sheet,Raw Materials,462,80.0,36960.0,2025-11-12,2025-11-17,Delivered,17,0,5
+PO0177,2026-08-13,SUP005,Evergreen Supplies,PR007,Plastic Resin,Raw Materials,165,60.0,9900.0,2026-08-22,2026-08-18,Delivered,5,1,-4
+PO0181,2026-09-25,SUP007,Global Source,PR005,Circuit Board,Electronics,496,250.0,124000.0,2026-10-11,2026-10-14,Delivered,19,0,3
+PO0182,2026-08-22,SUP004,Delta Packaging,PR006,Vehicle Component,Automotive,193,175.0,33775.0,2026-09-07,2026-09-13,Delivered,22,0,6
+PO0187,2026-07-28,SUP004,Delta Packaging,PR006,Vehicle Component,Automotive,76,175.0,13300.0,2026-08-02,2026-07-31,Delivered,3,1,-2
+PO0188,2026-08-16,SUP005,Evergreen Supplies,PR003,Shipping Box,Packaging,414,12.0,4968.0,2026-08-21,2026-08-22,Delivered,6,0,1
+PO0189,2026-10-03,SUP004,Delta Packaging,PR006,Vehicle Component,Automotive,389,175.0,68075.0,2026-10-13,2026-10-11,Delivered,8,1,-2
+PO0190,2026-09-09,SUP007,Global Source,PR002,Steel Sheet,Raw Materials,272,80.0,21760.0,2026-09-29,2026-09-30,Delivered,21,0,1
+PO0192,2025-11-16,SUP005,Evergreen Supplies,PR008,Protective Wrap,Packaging,443,8.0,3544.0,2025-11-21,2025-11-24,Delivered,8,0,3
+PO0193,2025-10-25,SUP007,Global Source,PR007,Plastic Resin,Raw Materials,47,60.0,2820.0,2025-11-02,2025-11-05,Delivered,11,0,3
+PO0194,2025-12-04,SUP002,Bright Logistics,PR006,Vehicle Component,Automotive,329,175.0,57575.0,2025-12-13,2025-12-13,Delivered,9,1,0
+PO0195,2025-12-10,SUP006,FastTrack Parts,PR007,Plastic Resin,Raw Materials,230,60.0,13800.0,2025-12-24,2025-12-29,Delivered,19,0,5
+PO0196,2025-11-10,SUP002,Bright Logistics,PR002,Steel Sheet,Raw Materials,221,80.0,17680.0,2025-11-21,2025-11-20,Delivered,10,1,-1
+PO0198,2025-11-05,SUP007,Global Source,PR006,Vehicle Component,Automotive,361,175.0,63175.0,2025-11-18,2025-11-16,Delivered,11,1,-2
+PO0199,2026-08-26,SUP008,Horizon Traders,PR002,Steel Sheet,Raw Materials,391,80.0,31280.0,2026-09-02,2026-08-30,Delivered,4,1,-3
+PO0202,2026-05-17,SUP007,Global Source,PR001,Electronic Sensor,Electronics,269,120.0,32280.0,2026-05-31,2026-06-05,Delivered,19,0,5
+PO0203,2025-11-09,SUP004,Delta Packaging,PR003,Shipping Box,Packaging,189,12.0,2268.0,2025-11-29,2025-11-26,Delivered,17,1,-3
+PO0205,2026-09-27,SUP001,Alpha Components,PR005,Circuit Board,Electronics,168,250.0,42000.0,2026-10-07,2026-10-15,Delivered,18,0,8
+PO0207,2026-07-31,SUP007,Global Source,PR002,Steel Sheet,Raw Materials,120,80.0,9600.0,2026-08-05,2026-08-09,Delivered,9,0,4
+PO0208,2026-02-21,SUP007,Global Source,PR007,Plastic Resin,Raw Materials,379,60.0,22740.0,2026-03-08,2026-03-08,Delivered,15,1,0
+PO0209,2026-09-15,SUP006,FastTrack Parts,PR002,Steel Sheet,Raw Materials,35,80.0,2800.0,2026-09-24,2026-09-29,Delivered,14,0,5
+PO0210,2026-02-27,SUP002,Bright Logistics,PR005,Circuit Board,Electronics,222,250.0,55500.0,2026-03-17,2026-03-20,Delivered,21,0,3
+PO0211,2026-01-22,SUP005,Evergreen Supplies,PR004,Machine Bearing,Industrial,155,45.0,6975.0,2026-01-30,2026-01-27,Delivered,5,1,-3
+PO0212,2026-09-18,SUP008,Horizon Traders,PR005,Circuit Board,Electronics,38,250.0,9500.0,2026-09-30,2026-10-05,Delivered,17,0,5
+PO0214,2026-04-27,SUP005,Evergreen Supplies,PR005,Circuit Board,Electronics,230,250.0,57500.0,2026-05-05,2026-05-12,Delivered,15,0,7
+PO0215,2026-03-31,SUP003,Core Materials,PR003,Shipping Box,Packaging,422,12.0,5064.0,2026-04-12,2026-04-18,Delivered,18,0,6
+PO0216,2026-03-22,SUP006,FastTrack Parts,PR002,Steel Sheet,Raw Materials,481,80.0,38480.0,2026-03-28,2026-03-31,Delivered,9,0,3
+PO0218,2026-08-14,SUP007,Global Source,PR005,Circuit Board,Electronics,97,250.0,24250.0,2026-08-31,2026-09-01,Delivered,18,0,1
+PO0220,2026-01-16,SUP007,Global Source,PR007,Plastic Resin,Raw Materials,391,60.0,23460.0,2026-01-23,2026-01-23,Delivered,7,1,0
+PO0221,2026-04-24,SUP006,FastTrack Parts,PR004,Machine Bearing,Industrial,68,45.0,3060.0,2026-05-04,2026-05-10,Delivered,16,0,6
+PO0222,2026-04-15,SUP004,Delta Packaging,PR006,Vehicle Component,Automotive,141,175.0,24675.0,2026-04-24,2026-04-22,Delivered,7,1,-2
+PO0224,2025-11-24,SUP002,Bright Logistics,PR003,Shipping Box,Packaging,399,12.0,4788.0,2025-12-14,2025-12-19,Delivered,25,0,5
+PO0225,2025-11-24,SUP008,Horizon Traders,PR006,Vehicle Component,Automotive,250,175.0,43750.0,2025-12-09,2025-12-06,Delivered,12,1,-3
+PO0226,2026-05-24,SUP008,Horizon Traders,PR005,Circuit Board,Electronics,168,250.0,42000.0,2026-05-30,2026-05-27,Delivered,3,1,-3
+PO0227,2026-09-22,SUP008,Horizon Traders,PR008,Protective Wrap,Packaging,49,8.0,392.0,2026-09-28,2026-09-28,Delivered,6,1,0
+PO0228,2026-02-17,SUP002,Bright Logistics,PR007,Plastic Resin,Raw Materials,302,60.0,18120.0,2026-02-23,2026-03-03,Delivered,14,0,8
+PO0229,2025-12-06,SUP004,Delta Packaging,PR006,Vehicle Component,Automotive,240,175.0,42000.0,2025-12-26,2025-12-22,Delivered,16,1,-4
+PO0230,2026-08-29,SUP002,Bright Logistics,PR006,Vehicle Component,Automotive,234,175.0,40950.0,2026-09-08,2026-09-15,Delivered,17,0,7
+PO0234,2025-11-09,SUP005,Evergreen Supplies,PR005,Circuit Board,Electronics,349,250.0,87250.0,2025-11-18,2025-11-23,Delivered,14,0,5
+PO0235,2026-05-06,SUP003,Core Materials,PR006,Vehicle Component,Automotive,490,175.0,85750.0,2026-05-23,2026-05-30,Delivered,24,0,7
+PO0237,2025-11-15,SUP003,Core Materials,PR002,Steel Sheet,Raw Materials,195,80.0,15600.0,2025-12-03,2025-11-29,Delivered,14,1,-4
+PO0239,2026-08-02,SUP004,Delta Packaging,PR004,Machine Bearing,Industrial,61,45.0,2745.0,2026-08-11,2026-08-19,Delivered,17,0,8
+PO0243,2026-06-14,SUP005,Evergreen Supplies,PR008,Protective Wrap,Packaging,411,8.0,3288.0,2026-06-26,2026-07-04,Delivered,20,0,8
+PO0244,2026-04-06,SUP008,Horizon Traders,PR004,Machine Bearing,Industrial,408,45.0,18360.0,2026-04-25,2026-04-25,Delivered,19,1,0
+PO0249,2026-09-28,SUP008,Horizon Traders,PR006,Vehicle Component,Automotive,201,175.0,35175.0,2026-10-16,2026-10-20,Delivered,22,0,4
+PO0250,2026-08-31,SUP004,Delta Packaging,PR007,Plastic Resin,Raw Materials,486,60.0,29160.0,2026-09-16,2026-09-17,Delivered,17,0,1
+PO0251,2026-07-29,SUP002,Bright Logistics,PR006,Vehicle Component,Automotive,366,175.0,64050.0,2026-08-07,2026-08-10,Delivered,12,0,3
+PO0253,2026-07-27,SUP005,Evergreen Supplies,PR004,Machine Bearing,Industrial,131,45.0,5895.0,2026-08-14,2026-08-14,Delivered,18,1,0
+PO0254,2026-09-17,SUP005,Evergreen Supplies,PR002,Steel Sheet,Raw Materials,328,80.0,26240.0,2026-09-29,2026-10-07,Delivered,20,0,8
+PO0256,2026-05-15,SUP004,Delta Packaging,PR003,Shipping Box,Packaging,133,12.0,1596.0,2026-06-02,2026-06-03,Delivered,19,0,1
+PO0257,2025-11-05,SUP007,Global Source,PR003,Shipping Box,Packaging,44,12.0,528.0,2025-11-12,2025-11-13,Delivered,8,0,1
+PO0259,2026-04-12,SUP005,Evergreen Supplies,PR001,Electronic Sensor,Electronics,346,120.0,41520.0,2026-04-19,2026-04-26,Delivered,14,0,7
+PO0260,2026-08-04,SUP002,Bright Logistics,PR006,Vehicle Component,Automotive,426,175.0,74550.0,2026-08-10,2026-08-11,Delivered,7,0,1
+PO0262,2026-02-19,SUP003,Core Materials,PR002,Steel Sheet,Raw Materials,415,80.0,33200.0,2026-02-25,2026-02-21,Delivered,2,1,-4
+PO0263,2026-05-03,SUP004,Delta Packaging,PR001,Electronic Sensor,Electronics,252,120.0,30240.0,2026-05-17,2026-05-21,Delivered,18,0,4
+PO0264,2025-11-14,SUP005,Evergreen Supplies,PR001,Electronic Sensor,Electronics,34,120.0,4080.0,2025-11-25,2025-12-03,Delivered,19,0,8
+PO0265,2026-08-09,SUP006,FastTrack Parts,PR005,Circuit Board,Electronics,390,250.0,97500.0,2026-08-25,2026-08-27,Delivered,18,0,2
+PO0266,2026-04-21,SUP008,Horizon Traders,PR007,Plastic Resin,Raw Materials,198,60.0,11880.0,2026-05-01,2026-05-04,Delivered,13,0,3
+PO0267,2026-03-08,SUP005,Evergreen Supplies,PR002,Steel Sheet,Raw Materials,289,80.0,23120.0,2026-03-15,2026-03-13,Delivered,5,1,-2
+PO0268,2026-08-20,SUP005,Evergreen Supplies,PR006,Vehicle Component,Automotive,166,175.0,29050.0,2026-08-27,2026-08-27,Delivered,7,1,0
+PO0269,2026-07-18,SUP008,Horizon Traders,PR007,Plastic Resin,Raw Materials,382,60.0,22920.0,2026-08-06,2026-08-02,Delivered,15,1,-4
+PO0270,2026-05-24,SUP006,FastTrack Parts,PR007,Plastic Resin,Raw Materials,217,60.0,13020.0,2026-05-30,2026-06-05,Delivered,12,0,6
+PO0272,2026-08-08,SUP008,Horizon Traders,PR001,Electronic Sensor,Electronics,197,120.0,23640.0,2026-08-15,2026-08-21,Delivered,13,0,6
+PO0276,2026-07-08,SUP002,Bright Logistics,PR001,Electronic Sensor,Electronics,70,120.0,8400.0,2026-07-28,2026-08-01,Delivered,24,0,4
+PO0277,2025-10-16,SUP005,Evergreen Supplies,PR005,Circuit Board,Electronics,156,250.0,39000.0,2025-11-04,2025-11-09,Delivered,24,0,5
+PO0281,2026-01-24,SUP003,Core Materials,PR006,Vehicle Component,Automotive,415,175.0,72625.0,2026-02-05,2026-02-04,Delivered,11,1,-1
+PO0282,2026-02-01,SUP003,Core Materials,PR004,Machine Bearing,Industrial,198,45.0,8910.0,2026-02-06,2026-02-11,Delivered,10,0,5
+PO0283,2025-12-02,SUP008,Horizon Traders,PR003,Shipping Box,Packaging,377,12.0,4524.0,2025-12-09,2025-12-11,Delivered,9,0,2
+PO0284,2026-03-16,SUP008,Horizon Traders,PR007,Plastic Resin,Raw Materials,338,60.0,20280.0,2026-03-23,2026-03-24,Delivered,8,0,1
+PO0285,2026-02-15,SUP002,Bright Logistics,PR008,Protective Wrap,Packaging,292,8.0,2336.0,2026-03-03,2026-03-11,Delivered,24,0,8
+PO0287,2026-07-19,SUP003,Core Materials,PR005,Circuit Board,Electronics,125,250.0,31250.0,2026-07-29,2026-08-05,Delivered,17,0,7
+PO0288,2026-09-01,SUP006,FastTrack Parts,PR005,Circuit Board,Electronics,150,250.0,37500.0,2026-09-14,2026-09-18,Delivered,17,0,4
+PO0289,2025-12-01,SUP003,Core Materials,PR005,Circuit Board,Electronics,313,250.0,78250.0,2025-12-08,2025-12-06,Delivered,5,1,-2
+PO0293,2025-11-17,SUP008,Horizon Traders,PR005,Circuit Board,Electronics,423,250.0,105750.0,2025-12-01,2025-12-09,Delivered,22,0,8
+PO0295,2026-02-06,SUP008,Horizon Traders,PR007,Plastic Resin,Raw Materials,83,60.0,4980.0,2026-02-25,2026-03-02,Delivered,24,0,5
+PO0296,2026-04-18,SUP006,FastTrack Parts,PR006,Vehicle Component,Automotive,273,175.0,47775.0,2026-05-05,2026-05-06,Delivered,18,0,1
+PO0297,2026-06-10,SUP002,Bright Logistics,PR006,Vehicle Component,Automotive,136,175.0,23800.0,2026-06-29,2026-07-02,Delivered,22,0,3
+PO0301,2026-01-30,SUP008,Horizon Traders,PR005,Circuit Board,Electronics,268,250.0,67000.0,2026-02-04,2026-02-06,Delivered,7,0,2
+PO0302,2026-06-23,SUP008,Horizon Traders,PR004,Machine Bearing,Industrial,263,45.0,11835.0,2026-07-09,2026-07-09,Delivered,16,1,0
+PO0304,2026-04-07,SUP003,Core Materials,PR005,Circuit Board,Electronics,36,250.0,9000.0,2026-04-24,2026-04-26,Delivered,19,0,2
+PO0305,2026-01-01,SUP004,Delta Packaging,PR006,Vehicle Component,Automotive,240,175.0,42000.0,2026-01-15,2026-01-19,Delivered,18,0,4
+PO0306,2026-08-07,SUP005,Evergreen Supplies,PR002,Steel Sheet,Raw Materials,183,80.0,14640.0,2026-08-15,2026-08-23,Delivered,16,0,8
+PO0307,2026-07-02,SUP006,FastTrack Parts,PR003,Shipping Box,Packaging,29,12.0,348.0,2026-07-19,2026-07-15,Delivered,13,1,-4
+PO0308,2026-02-11,SUP003,Core Materials,PR006,Vehicle Component,Automotive,81,175.0,14175.0,2026-03-02,2026-03-06,Delivered,23,0,4
+PO0312,2025-12-10,SUP005,Evergreen Supplies,PR001,Electronic Sensor,Electronics,410,120.0,49200.0,2025-12-30,2026-01-05,Delivered,26,0,6
+PO0313,2025-12-17,SUP004,Delta Packaging,PR001,Electronic Sensor,Electronics,379,120.0,45480.0,2026-01-06,2026-01-12,Delivered,26,0,6
+PO0314,2025-10-28,SUP007,Global Source,PR003,Shipping Box,Packaging,66,12.0,792.0,2025-11-09,2025-11-16,Delivered,19,0,7
+PO0315,2026-02-28,SUP004,Delta Packaging,PR001,Electronic Sensor,Electronics,363,120.0,43560.0,2026-03-15,2026-03-17,Delivered,17,0,2
+PO0318,2026-05-04,SUP008,Horizon Traders,PR007,Plastic Resin,Raw Materials,185,60.0,11100.0,2026-05-14,2026-05-18,Delivered,14,0,4
+PO0319,2025-12-03,SUP006,FastTrack Parts,PR005,Circuit Board,Electronics,152,250.0,38000.0,2025-12-23,2025-12-22,Delivered,19,1,-1
+PO0323,2026-05-16,SUP006,FastTrack Parts,PR003,Shipping Box,Packaging,50,12.0,600.0,2026-05-22,2026-05-29,Delivered,13,0,7
+PO0325,2025-12-28,SUP004,Delta Packaging,PR005,Circuit Board,Electronics,389,250.0,97250.0,2026-01-10,2026-01-15,Delivered,18,0,5
+PO0327,2026-04-25,SUP002,Bright Logistics,PR007,Plastic Resin,Raw Materials,80,60.0,4800.0,2026-05-15,2026-05-23,Delivered,28,0,8
+PO0328,2026-03-17,SUP001,Alpha Components,PR003,Shipping Box,Packaging,397,12.0,4764.0,2026-04-06,2026-04-05,Delivered,19,1,-1
+PO0334,2026-07-05,SUP008,Horizon Traders,PR005,Circuit Board,Electronics,244,250.0,61000.0,2026-07-13,2026-07-20,Delivered,15,0,7
+PO0337,2026-03-20,SUP006,FastTrack Parts,PR002,Steel Sheet,Raw Materials,254,80.0,20320.0,2026-03-28,2026-03-26,Delivered,6,1,-2
+PO0338,2026-10-08,SUP006,FastTrack Parts,PR004,Machine Bearing,Industrial,395,45.0,17775.0,2026-10-21,2026-10-24,Delivered,16,0,3
+PO0339,2026-05-10,SUP005,Evergreen Supplies,PR006,Vehicle Component,Automotive,364,175.0,63700.0,2026-05-15,2026-05-16,Delivered,6,0,1
+PO0340,2025-11-04,SUP004,Delta Packaging,PR001,Electronic Sensor,Electronics,217,120.0,26040.0,2025-11-12,2025-11-10,Delivered,6,1,-2
+PO0341,2025-11-18,SUP005,Evergreen Supplies,PR002,Steel Sheet,Raw Materials,122,80.0,9760.0,2025-12-02,2025-12-01,Delivered,13,1,-1
+PO0344,2025-10-28,SUP004,Delta Packaging,PR004,Machine Bearing,Industrial,370,45.0,16650.0,2025-11-04,2025-11-08,Delivered,11,0,4
+PO0345,2025-12-27,SUP006,FastTrack Parts,PR002,Steel Sheet,Raw Materials,472,80.0,37760.0,2026-01-04,2026-01-08,Delivered,12,0,4
+PO0347,2025-12-17,SUP002,Bright Logistics,PR004,Machine Bearing,Industrial,238,45.0,10710.0,2026-01-06,2026-01-10,Delivered,24,0,4
+PO0348,2026-08-05,SUP001,Alpha Components,PR008,Protective Wrap,Packaging,296,8.0,2368.0,2026-08-23,2026-08-19,Delivered,14,1,-4
+PO0349,2026-09-30,SUP008,Horizon Traders,PR005,Circuit Board,Electronics,391,250.0,97750.0,2026-10-17,2026-10-13,Delivered,13,1,-4
+PO0350,2026-09-18,SUP004,Delta Packaging,PR002,Steel Sheet,Raw Materials,287,80.0,22960.0,2026-10-06,2026-10-03,Delivered,15,1,-3
+PO0351,2026-02-12,SUP001,Alpha Components,PR002,Steel Sheet,Raw Materials,403,80.0,32240.0,2026-02-18,2026-02-16,Delivered,4,1,-2
+PO0352,2026-04-03,SUP003,Core Materials,PR007,Plastic Resin,Raw Materials,202,60.0,12120.0,2026-04-20,2026-04-22,Delivered,19,0,2
+PO0353,2025-11-11,SUP002,Bright Logistics,PR003,Shipping Box,Packaging,211,12.0,2532.0,2025-11-27,2025-12-01,Delivered,20,0,4
+PO0355,2026-06-16,SUP007,Global Source,PR007,Plastic Resin,Raw Materials,151,60.0,9060.0,2026-06-28,2026-06-26,Delivered,10,1,-2
+PO0357,2026-06-28,SUP001,Alpha Components,PR004,Machine Bearing,Industrial,238,45.0,10710.0,2026-07-05,2026-07-01,Delivered,3,1,-4
+PO0358,2026-09-19,SUP001,Alpha Components,PR004,Machine Bearing,Industrial,121,45.0,5445.0,2026-10-06,2026-10-10,Delivered,21,0,4
+PO0359,2026-01-27,SUP001,Alpha Components,PR003,Shipping Box,Packaging,304,12.0,3648.0,2026-02-10,2026-02-17,Delivered,21,0,7
+PO0361,2026-05-11,SUP004,Delta Packaging,PR007,Plastic Resin,Raw Materials,460,60.0,27600.0,2026-05-24,2026-05-29,Delivered,18,0,5
+PO0362,2025-12-31,SUP003,Core Materials,PR007,Plastic Resin,Raw Materials,492,60.0,29520.0,2026-01-20,2026-01-21,Delivered,21,0,1
+PO0363,2025-10-20,SUP007,Global Source,PR006,Vehicle Component,Automotive,202,175.0,35350.0,2025-11-07,2025-11-07,Delivered,18,1,0
+PO0364,2026-06-10,SUP003,Core Materials,PR008,Protective Wrap,Packaging,83,8.0,664.0,2026-06-22,2026-06-29,Delivered,19,0,7
+PO0366,2026-06-09,SUP003,Core Materials,PR007,Plastic Resin,Raw Materials,50,60.0,3000.0,2026-06-22,2026-06-28,Delivered,19,0,6
+PO0367,2026-08-25,SUP008,Horizon Traders,PR006,Vehicle Component,Automotive,354,175.0,61950.0,2026-09-05,2026-09-07,Delivered,13,0,2
+PO0368,2026-07-07,SUP001,Alpha Components,PR002,Steel Sheet,Raw Materials,165,80.0,13200.0,2026-07-18,2026-07-19,Delivered,12,0,1
+PO0370,2025-10-20,SUP008,Horizon Traders,PR004,Machine Bearing,Industrial,292,45.0,13140.0,2025-10-31,2025-10-30,Delivered,10,1,-1
+PO0371,2026-03-31,SUP006,FastTrack Parts,PR005,Circuit Board,Electronics,167,250.0,41750.0,2026-04-19,2026-04-20,Delivered,20,0,1
+PO0372,2026-01-22,SUP005,Evergreen Supplies,PR006,Vehicle Component,Automotive,379,175.0,66325.0,2026-02-11,2026-02-19,Delivered,28,0,8
+PO0373,2026-06-29,SUP008,Horizon Traders,PR006,Vehicle Component,Automotive,298,175.0,52150.0,2026-07-15,2026-07-11,Delivered,12,1,-4
+PO0375,2026-07-25,SUP007,Global Source,PR005,Circuit Board,Electronics,301,250.0,75250.0,2026-08-05,2026-08-07,Delivered,13,0,2
+PO0376,2026-01-03,SUP004,Delta Packaging,PR008,Protective Wrap,Packaging,380,8.0,3040.0,2026-01-18,2026-01-21,Delivered,18,0,3
+PO0377,2026-07-17,SUP008,Horizon Traders,PR008,Protective Wrap,Packaging,289,8.0,2312.0,2026-08-02,2026-08-09,Delivered,23,0,7
+PO0378,2026-01-07,SUP008,Horizon Traders,PR003,Shipping Box,Packaging,493,12.0,5916.0,2026-01-13,2026-01-10,Delivered,3,1,-3
+PO0380,2026-10-07,SUP002,Bright Logistics,PR003,Shipping Box,Packaging,40,12.0,480.0,2026-10-18,2026-10-19,Delivered,12,0,1
+PO0381,2026-10-03,SUP008,Horizon Traders,PR008,Protective Wrap,Packaging,16,8.0,128.0,2026-10-08,2026-10-10,Delivered,7,0,2
+PO0382,2026-01-10,SUP001,Alpha Components,PR005,Circuit Board,Electronics,355,250.0,88750.0,2026-01-24,2026-01-31,Delivered,21,0,7
+PO0383,2026-08-18,SUP007,Global Source,PR003,Shipping Box,Packaging,108,12.0,1296.0,2026-08-26,2026-08-25,Delivered,7,1,-1
+PO0384,2026-05-28,SUP005,Evergreen Supplies,PR006,Vehicle Component,Automotive,245,175.0,42875.0,2026-06-14,2026-06-16,Delivered,19,0,2
+PO0386,2026-03-18,SUP001,Alpha Components,PR002,Steel Sheet,Raw Materials,38,80.0,3040.0,2026-04-04,2026-04-07,Delivered,20,0,3
+PO0388,2026-01-14,SUP006,FastTrack Parts,PR002,Steel Sheet,Raw Materials,464,80.0,37120.0,2026-01-20,2026-01-27,Delivered,13,0,7
+PO0391,2026-09-02,SUP003,Core Materials,PR007,Plastic Resin,Raw Materials,300,60.0,18000.0,2026-09-16,2026-09-15,Delivered,13,1,-1
+PO0393,2026-09-14,SUP002,Bright Logistics,PR006,Vehicle Component,Automotive,184,175.0,32200.0,2026-09-22,2026-09-19,Delivered,5,1,-3
+PO0395,2026-04-12,SUP008,Horizon Traders,PR004,Machine Bearing,Industrial,309,45.0,13905.0,2026-04-29,2026-05-05,Delivered,23,0,6
+PO0397,2026-05-27,SUP002,Bright Logistics,PR002,Steel Sheet,Raw Materials,334,80.0,26720.0,2026-06-05,2026-06-13,Delivered,17,0,8
+PO0398,2026-05-02,SUP003,Core Materials,PR007,Plastic Resin,Raw Materials,492,60.0,29520.0,2026-05-18,2026-05-14,Delivered,12,1,-4
+PO0399,2026-04-10,SUP005,Evergreen Supplies,PR008,Protective Wrap,Packaging,105,8.0,840.0,2026-04-23,2026-04-20,Delivered,10,1,-3
+PO0400,2025-12-30,SUP007,Global Source,PR008,Protective Wrap,Packaging,191,8.0,1528.0,2026-01-17,2026-01-14,Delivered,15,1,-3
+PO0401,2026-03-28,SUP002,Bright Logistics,PR006,Vehicle Component,Automotive,408,175.0,71400.0,2026-04-02,2026-04-04,Delivered,7,0,2
+PO0403,2026-05-10,SUP003,Core Materials,PR005,Circuit Board,Electronics,95,250.0,23750.0,2026-05-23,2026-05-20,Delivered,10,1,-3
+PO0404,2026-03-10,SUP007,Global Source,PR005,Circuit Board,Electronics,194,250.0,48500.0,2026-03-24,2026-03-21,Delivered,11,1,-3
+PO0406,2026-08-03,SUP008,Horizon Traders,PR002,Steel Sheet,Raw Materials,180,80.0,14400.0,2026-08-17,2026-08-19,Delivered,16,0,2
+PO0407,2026-02-28,SUP007,Global Source,PR006,Vehicle Component,Automotive,314,175.0,54950.0,2026-03-15,2026-03-21,Delivered,21,0,6
+PO0408,2026-04-30,SUP003,Core Materials,PR005,Circuit Board,Electronics,213,250.0,53250.0,2026-05-11,2026-05-09,Delivered,9,1,-2
+PO0412,2026-02-17,SUP003,Core Materials,PR001,Electronic Sensor,Electronics,435,120.0,52200.0,2026-02-28,2026-02-28,Delivered,11,1,0
+PO0413,2025-11-01,SUP002,Bright Logistics,PR007,Plastic Resin,Raw Materials,133,60.0,7980.0,2025-11-21,2025-11-21,Delivered,20,1,0
+PO0414,2026-03-09,SUP005,Evergreen Supplies,PR003,Shipping Box,Packaging,255,12.0,3060.0,2026-03-26,2026-03-31,Delivered,22,0,5
+PO0416,2026-06-06,SUP002,Bright Logistics,PR002,Steel Sheet,Raw Materials,32,80.0,2560.0,2026-06-22,2026-06-27,Delivered,21,0,5
+PO0417,2026-03-05,SUP007,Global Source,PR006,Vehicle Component,Automotive,123,175.0,21525.0,2026-03-13,2026-03-13,Delivered,8,1,0
+PO0418,2026-04-03,SUP004,Delta Packaging,PR008,Protective Wrap,Packaging,311,8.0,2488.0,2026-04-20,2026-04-26,Delivered,23,0,6
+PO0419,2026-09-29,SUP003,Core Materials,PR006,Vehicle Component,Automotive,481,175.0,84175.0,2026-10-19,2026-10-21,Delivered,22,0,2
+PO0420,2026-07-31,SUP002,Bright Logistics,PR002,Steel Sheet,Raw Materials,411,80.0,32880.0,2026-08-16,2026-08-19,Delivered,19,0,3
+PO0421,2026-04-16,SUP004,Delta Packaging,PR008,Protective Wrap,Packaging,366,8.0,2928.0,2026-05-06,2026-05-13,Delivered,27,0,7
+PO0422,2026-09-07,SUP008,Horizon Traders,PR006,Vehicle Component,Automotive,68,175.0,11900.0,2026-09-21,2026-09-28,Delivered,21,0,7
+PO0424,2026-01-02,SUP004,Delta Packaging,PR003,Shipping Box,Packaging,500,12.0,6000.0,2026-01-12,2026-01-14,Delivered,12,0,2
+PO0425,2026-03-18,SUP008,Horizon Traders,PR004,Machine Bearing,Industrial,231,45.0,10395.0,2026-03-28,2026-04-03,Delivered,16,0,6
+PO0426,2025-12-01,SUP007,Global Source,PR001,Electronic Sensor,Electronics,209,120.0,25080.0,2025-12-12,2025-12-14,Delivered,13,0,2
+PO0428,2026-01-10,SUP002,Bright Logistics,PR002,Steel Sheet,Raw Materials,244,80.0,19520.0,2026-01-20,2026-01-19,Delivered,9,1,-1
+PO0429,2025-11-02,SUP002,Bright Logistics,PR005,Circuit Board,Electronics,170,250.0,42500.0,2025-11-22,2025-11-28,Delivered,26,0,6
+PO0430,2025-12-15,SUP007,Global Source,PR007,Plastic Resin,Raw Materials,326,60.0,19560.0,2025-12-23,2025-12-26,Delivered,11,0,3
+PO0432,2026-05-08,SUP002,Bright Logistics,PR004,Machine Bearing,Industrial,82,45.0,3690.0,2026-05-16,2026-05-23,Delivered,15,0,7
+PO0436,2026-10-07,SUP001,Alpha Components,PR006,Vehicle Component,Automotive,297,175.0,51975.0,2026-10-27,2026-10-29,Delivered,22,0,2
+PO0437,2025-10-26,SUP008,Horizon Traders,PR007,Plastic Resin,Raw Materials,260,60.0,15600.0,2025-11-15,2025-11-18,Delivered,23,0,3
+PO0439,2026-05-24,SUP005,Evergreen Supplies,PR001,Electronic Sensor,Electronics,409,120.0,49080.0,2026-06-05,2026-06-03,Delivered,10,1,-2
+PO0442,2026-09-25,SUP004,Delta Packaging,PR005,Circuit Board,Electronics,234,250.0,58500.0,2026-10-14,2026-10-11,Delivered,16,1,-3
+PO0445,2025-12-24,SUP004,Delta Packaging,PR001,Electronic Sensor,Electronics,285,120.0,34200.0,2026-01-09,2026-01-14,Delivered,21,0,5
+PO0446,2025-10-16,SUP003,Core Materials,PR006,Vehicle Component,Automotive,497,175.0,86975.0,2025-10-30,2025-10-30,Delivered,14,1,0
+PO0454,2026-03-06,SUP007,Global Source,PR004,Machine Bearing,Industrial,434,45.0,19530.0,2026-03-17,2026-03-18,Delivered,12,0,1
+PO0457,2026-08-09,SUP008,Horizon Traders,PR001,Electronic Sensor,Electronics,500,120.0,60000.0,2026-08-19,2026-08-15,Delivered,6,1,-4
+PO0459,2026-08-25,SUP003,Core Materials,PR005,Circuit Board,Electronics,350,250.0,87500.0,2026-09-10,2026-09-11,Delivered,17,0,1
+PO0464,2026-02-09,SUP007,Global Source,PR003,Shipping Box,Packaging,384,12.0,4608.0,2026-02-16,2026-02-13,Delivered,4,1,-3
+PO0466,2025-11-17,SUP007,Global Source,PR003,Shipping Box,Packaging,14,12.0,168.0,2025-11-26,2025-12-01,Delivered,14,0,5
+PO0469,2026-04-15,SUP002,Bright Logistics,PR007,Plastic Resin,Raw Materials,136,60.0,8160.0,2026-05-03,2026-05-01,Delivered,16,1,-2
+PO0472,2026-01-31,SUP001,Alpha Components,PR004,Machine Bearing,Industrial,336,45.0,15120.0,2026-02-17,2026-02-20,Delivered,20,0,3
+PO0473,2026-04-10,SUP002,Bright Logistics,PR001,Electronic Sensor,Electronics,225,120.0,27000.0,2026-04-25,2026-04-30,Delivered,20,0,5
+PO0474,2026-02-12,SUP006,FastTrack Parts,PR003,Shipping Box,Packaging,17,12.0,204.0,2026-02-19,2026-02-16,Delivered,4,1,-3
+PO0476,2026-03-09,SUP005,Evergreen Supplies,PR007,Plastic Resin,Raw Materials,285,60.0,17100.0,2026-03-26,2026-03-30,Delivered,21,0,4
+PO0477,2026-08-30,SUP003,Core Materials,PR005,Circuit Board,Electronics,423,250.0,105750.0,2026-09-13,2026-09-12,Delivered,13,1,-1
+PO0478,2026-03-25,SUP003,Core Materials,PR006,Vehicle Component,Automotive,383,175.0,67025.0,2026-04-01,2026-04-03,Delivered,9,0,2
+PO0480,2026-05-06,SUP008,Horizon Traders,PR001,Electronic Sensor,Electronics,80,120.0,9600.0,2026-05-16,2026-05-23,Delivered,17,0,7
+PO0481,2026-01-30,SUP001,Alpha Components,PR003,Shipping Box,Packaging,431,12.0,5172.0,2026-02-15,2026-02-23,Delivered,24,0,8
+PO0484,2025-10-12,SUP002,Bright Logistics,PR005,Circuit Board,Electronics,194,250.0,48500.0,2025-10-19,2025-10-23,Delivered,11,0,4
+PO0485,2025-12-25,SUP001,Alpha Components,PR008,Protective Wrap,Packaging,405,8.0,3240.0,2026-01-04,2026-01-04,Delivered,10,1,0
+PO0486,2026-06-17,SUP002,Bright Logistics,PR002,Steel Sheet,Raw Materials,135,80.0,10800.0,2026-06-22,2026-06-18,Delivered,1,1,-4
+PO0488,2026-06-19,SUP001,Alpha Components,PR007,Plastic Resin,Raw Materials,173,60.0,10380.0,2026-07-04,2026-07-11,Delivered,22,0,7
+PO0489,2025-12-23,SUP005,Evergreen Supplies,PR002,Steel Sheet,Raw Materials,471,80.0,37680.0,2026-01-08,2026-01-14,Delivered,22,0,6
+PO0491,2026-05-05,SUP008,Horizon Traders,PR005,Circuit Board,Electronics,14,250.0,3500.0,2026-05-20,2026-05-23,Delivered,18,0,3
+PO0496,2026-08-19,SUP007,Global Source,PR005,Circuit Board,Electronics,224,250.0,56000.0,2026-08-30,2026-08-29,Delivered,10,1,-1
+PO0497,2026-07-31,SUP008,Horizon Traders,PR001,Electronic Sensor,Electronics,469,120.0,56280.0,2026-08-13,2026-08-12,Delivered,12,1,-1
+PO0499,2026-09-03,SUP003,Core Materials,PR007,Plastic Resin,Raw Materials,131,60.0,7860.0,2026-09-09,2026-09-07,Delivered,4,1,-2
